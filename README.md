@@ -29,3 +29,9 @@ noise_spectrum_app/
 
 - Supported input units: `V`, `mV`, `uV`, `nV`.
 - Current filter mode supports only `No Filter` (other filter items are reserved).
+
+## Screenshot
+
+Software running screenshot:
+
+![Noise Spectrum App Screenshot](pic1.png)
